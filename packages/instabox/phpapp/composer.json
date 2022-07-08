@@ -1,8 +1,0 @@
-{
-    "require": {
-      "php" : ">=7.4",
-      "vendor/kub-at/php-simple-html-dom-parser": "^1.9",
-      "ext-json": "*"
-    }
-  }
-  
