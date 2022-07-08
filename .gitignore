@@ -1,0 +1,6 @@
+.nimbella
+__deployer__.zip
+__pycache__/
+.DS_Store
+packages/sample/hello/composer.lock
+packages/sample/hello/vendor/
