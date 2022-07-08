@@ -1,15 +1,15 @@
-targetNamespace: ''
+targetNamespace: ""
 parameters: {}
 packages:
-  - name: sample
+  - name: instabox
     environment: {}
     parameters: {}
     annotations: {}
     actions:
-      - name: hello
+      - name: phpapp
         binary: false
-        main: ''
-        runtime: 'php:default'
+        main: ""
+        runtime: "php:default"
         web: true
         parameters: {}
         environment: {}
